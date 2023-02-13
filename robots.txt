@@ -1,0 +1,5 @@
+Sitemap: https://boluria.orderio.id/sitemap.xml
+
+User-agent: *
+
+Allow: /

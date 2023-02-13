@@ -6,8 +6,8 @@ price: "99.000"
 price_promo: "49.000"
 date: 2023-02-10 08:00:00 +07:00
 tags: ["bolu"]
-thumbnail: /products/bolu-ria-wiradesa.jpg
-products: ["/products/bolu-ria-wiradesa.jpg"]
+thumbnail: /products/sample-bolu-best-seller.png
+products: ["/products/sample-bolu-best-seller.png,"/products/bolu-ria-wiradesa.jpg"]
 ---
 
 ## Bolu Best Seller by BoluRia ##

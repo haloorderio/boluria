@@ -6,8 +6,8 @@ price: "79.000"
 price_promo: "39.000"
 date: 2023-02-11 08:00:00 +07:00
 tags: ["bolu"]
-thumbnail: /products/bolu-ria-wiradesa.jpg
-products: ["/products/bolu-ria-wiradesa.jpg"]
+thumbnail: /products/sample-bolu-donat.png
+products: ["/products/sample-bolu-donat.png"]
 ---
 
 ## Bolu Donat by BoluRia ##

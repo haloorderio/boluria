@@ -2,8 +2,8 @@
 layout: post
 title: Brownies Meses
 description: Brownies Meses by BoluRia
-price: ""
-price_promo: "22.000"
+price: "22.000"
+price_promo: ""
 date: 2023-02-13 08:00:00 +07:00
 tags: ["brownies"]
 thumbnail: /products/Brownies-meses-boluria-wiradesa.jpg

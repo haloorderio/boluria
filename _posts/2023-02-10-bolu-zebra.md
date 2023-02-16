@@ -2,8 +2,7 @@
 layout: post
 title: Bolu Zebra
 description: Bolu Zebra by BoluRia
-price: ""
-price_promo: "35.000"
+price: "35.000"
 date: 2023-02-10 08:00:00 +07:00
 tags: ["bolu"]
 thumbnail: /products/bolu-zebra-boluria-wiradesa.jpg

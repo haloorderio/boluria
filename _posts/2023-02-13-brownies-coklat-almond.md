@@ -20,6 +20,6 @@ Kue coklat manis bertekstur lembut diproses dengan dipanggang dengan aneka topin
 
 ---
 
-Harga Normal Rp 35.000
+Harga Rp 35.000
 
 **Made by Order**

@@ -2,8 +2,8 @@
 layout: post
 title: Brownies Meses
 description: Brownies Meses by BoluRia
-price: "22.000"
-price_promo: ""
+price: ""
+price_promo: "22.000"
 date: 2023-02-13 08:00:00 +07:00
 tags: ["brownies"]
 thumbnail: /products/Brownies-meses-boluria-wiradesa.jpg
@@ -20,6 +20,6 @@ Kue coklat manis bertekstur lembut diproses dengan dipanggang dengan aneka topin
 
 ---
 
-Harga Normal Rp 22.000
+Harga Rp 22.000
 
 **Made by Order**

@@ -8,6 +8,7 @@ date: 2023-02-11 08:00:00 +07:00
 tags: ["bolu"]
 thumbnail: /products/sample-bolu-donat.png
 products: ["/products/sample-bolu-donat.png"]
+published: false
 ---
 
 ## Bolu Donat by BoluRia ##

@@ -8,6 +8,7 @@ date: 2023-02-12 08:00:00 +07:00
 tags: ["bolu"]
 thumbnail: /products/sample-bolu-merdeka.png
 products: ["/products/sample-bolu-merdeka.png"]
+published: false
 ---
 
 ## Bolu Merdeka by Boluria ##

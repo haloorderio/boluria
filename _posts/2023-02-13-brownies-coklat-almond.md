@@ -3,7 +3,6 @@ layout: post
 title: Brownies Coklat Almond
 description: Brownies Coklat Almond by BoluRia
 price: "35.000"
-price_promo: ""
 date: 2023-02-13 08:00:00 +07:00
 tags: ["brownies"]
 thumbnail: /products/Brownies-coklat-almond-boluria-wiradesa-1.jpg

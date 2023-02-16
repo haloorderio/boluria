@@ -8,6 +8,7 @@ date: 2023-02-10 08:00:00 +07:00
 tags: ["bolu"]
 thumbnail: /products/sample-bolu-best-seller.png
 products: ["/products/sample-bolu-best-seller.png","/products/bolu-ria-wiradesa.jpg"]
+published: false
 ---
 
 ## Bolu Best Seller by BoluRia ##

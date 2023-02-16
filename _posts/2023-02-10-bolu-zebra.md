@@ -7,6 +7,7 @@ date: 2023-02-10 08:00:00 +07:00
 tags: ["bolu"]
 thumbnail: /products/bolu-zebra-boluria-wiradesa.jpg
 products: ["/products/bolu-zebra-boluria-wiradesa.jpg"]
+published: false
 ---
 
 ## Bolu Zebra by BoluRia ##

@@ -9,7 +9,7 @@ name: Bolu Ria | Sedia Berbagai Jenis Bolu by Request
 description: Menerima order berbagai jenis bolu
 
 # Lock page
-locked: true
+locked: false
 
 # Keywords for crawling (displayed in the header)
 keywords: bolu pekalongan, jual bolu wiradesa, jual bolu terdekat

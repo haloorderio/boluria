@@ -13,9 +13,9 @@
    id="GrabExpress"
    x="0px"
    y="0px"
-   width="100"
+   width="50"
    height="25"
-   viewBox="0 0 100 25"
+   viewBox="0 0 50 25"
    xml:space="preserve"
    sodipodi:docname="GrabExpress-logo.svg"
    inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)"><metadata
@@ -70,7 +70,7 @@
 
 <g
    id="g3855"
-   transform="translate(40.796316,-0.58554026)"><circle
+   transform="translate(15.796316,-0.58554026)"><circle
      style="fill:#00913d;stroke-width:0.06707542"
      r="8.9009085"
      id="ellipse4"

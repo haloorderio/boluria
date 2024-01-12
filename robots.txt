@@ -1,4 +1,4 @@
-Sitemap: https://boluria.orderio.id/sitemap.xml
+Sitemap: https://boluria.orderio.my.id/sitemap.xml
 
 User-agent: *
 
